@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "roll": "22",
+      "name": "karti",
+      "mark": "23",
+      "gender": null,
+      "city": "akola",
+      "id": 2
+    },
+    {
+      "roll": "1",
+      "name": "pranit",
+      "mark": "11",
+      "gender": "male",
+      "city": "amravati",
+      "id": 3
+    },
+    {
+      "roll": "4",
+      "name": "pranit",
+      "mark": "4444444",
+      "gender": "male",
+      "city": "amravati",
+      "id": 4
+    }
+  ]
+}
