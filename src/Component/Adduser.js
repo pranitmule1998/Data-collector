@@ -22,7 +22,7 @@ const Adduser = () => {
     return (
 
         <div className="col-6 mx-auto ">
-            <h1 id="s" className='text-center mb-5'>ADD USER DETAILS</h1>
+            <h1 id="s" className='text-center mb-5'>ADD STUDENTS DETAILS</h1>
             <div id='box' className='mx-auto'>
                 <form onSubmit={handleSubmit(saveData)} >
 
